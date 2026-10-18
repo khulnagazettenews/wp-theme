@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Bangla';
+  src: url('Bangla.woff') format('woff'),
+       url('Bangla.ttf') format('truetype'),
+       url('Bangla.eot') format('embedded-opentype'),
+       url('Bangla.svg#Bangla') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
